@@ -35,3 +35,6 @@ GitHub Issues are for reporting bugs, discussing features and general feedback o
 
 To share your project, get feedback on it, and learn more about Lobe, please visit our community on [Reddit](https://www.reddit.com/r/Lobe/). 
 We look forward to seeing the amazing projects that can be built, when machine learning is made accessible to you.
+
+
+##danny ruchtie
